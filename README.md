@@ -14,6 +14,7 @@
    <img src="https://github.com/whkim94/whkim94/blob/main/vue.svg" alt="vue" width="40" height="40"/>
    <img src="https://github.com/whkim94/whkim94/blob/main/nuxt-icon.svg" alt="nuxt" width="40" height="40"/>
    <img src="https://github.com/whkim94/whkim94/blob/main/react.svg" alt="react" width="40" height="40"/>
+   <img src="https://github.com/whkim94/whkim94/blob/main/Laravel.svg" alt="laravel" width="40" height="40"/>
   
    <img src="https://github.com/whkim94/whkim94/blob/main/django-icon.svg" alt="django" width="40" height="40"/>
    <img src="https://github.com/whkim94/whkim94/blob/main/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
